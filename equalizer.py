@@ -20,7 +20,7 @@ window.geometry(f"{window_width}x{window_height}+{x_window}+{y_window}")
 window.title("Equalizer")
 
 bands = [(50, 150), (200, 400), (500, 1000), (1100, 2500), (3000, 6000), (6000, 10000)]
-gains = [1, 2, 6, 4, 3, 2]
+gains = [1, 1, 1, 1, 1, 1]
 
 status = StringVar(window)
 file_path = r"Audio/CantinaBand60.wav"
