@@ -1,5 +1,5 @@
 # Audio-Equalizer
-Created a 6-band audio equalizer by implementing bandpass filters using butterworth filter design. Used Python tkinter library to create the desktop GUI. The application allows
+Created a 6-band audio equalizer by implementing bandpass filters using Butterworth filter design. Used Python tkinter library to create the desktop GUI. The application allows
 users to play an audio file(wav format) and boost frequencies in certain frequency bands to change how the audio sounds.
 
 
